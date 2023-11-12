@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* h1{
+    color: red;
+}
+
+.title{
+    background-color: green;
+}
+
+.container{
+    font-size: 40px;
+}
+
+.text-xs{
+    font-size: 16px;
+} */
+
+/* .text-red-400{
+    color: red;
+} */
+
+/* nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+} */
+
+/* ul{
+    display: flex;
+} */
+
+/* .grid{
+    display: grid;
+    grid-template-columns: repeat(1fr , 3);
+} */
+
+.nav{
+
+    background-color: aqua;
+}
+
+
+.custom-class {
+    @apply text-center bg-red-500
+}
